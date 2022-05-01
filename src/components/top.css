@@ -1,0 +1,17 @@
+li{
+    margin-right: 50px;
+    cursor: pointer;
+}
+
+i{
+    margin-right: 10px;
+}
+.sub-title{
+    background-color: blue;
+    padding: 5px;
+}
+.bimage{
+   object-fit: cover;
+   height: 80%;
+}
+
